@@ -1,0 +1,7 @@
+
+path: /workspaces/vision_artificial-main/Aerial_View_Vehicle_Detection.v1i.yolov8
+train: /workspaces/vision_artificial-main/Aerial_View_Vehicle_Detection.v1i.yolov8/train
+val: /workspaces/vision_artificial-main/Aerial_View_Vehicle_Detection.v1i.yolov8/val
+
+names:
+  0: 'vehicle'  # Ajusta según tus clases
