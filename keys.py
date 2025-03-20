@@ -1,0 +1,5 @@
+computer_vision_subscription_key = "Evg359v40tiCvq9IuwTIhfu9gRE8pLDfcDQZQo8hj9UzTgJOxGjvJQQJ99BCACYeBjFXJ3w3AAAFACOGZWAN"
+computer_vision_endpoint = "https://vehiclereccon.cognitiveservices.azure.com/"
+
+ocr_subscription_key = "85VOWRLwBNSrRFyRHn0veZEQ82W9UaqgzO9f3RyoB4xBMzk6Vr4pJQQJ99BCACYeBjFXJ3w3AAAAACOGS1Wa"
+ocr_endpoint = "https://aivisionocr034.cognitiveservices.azure.com/"
